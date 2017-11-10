@@ -1,0 +1,35 @@
+EXTRA
+- npm intall
+- npm start
+
+Verificar nodeJS
+- node -v
+
+Instalar pcts typescript
+- npm install -g typescript
+
+Instalar pcts angular cli
+- npm install -g @angular/cli
+
+Verificar instalação Angular Cli
+- ng -v
+
+Criar uma pasta
+Abrir comand na pasta 
+
+- ng new nome-pasta
+
+- ctrl + c
+
+- cd nome-pasta / comand na pasta
+
+Importar Bootstrap e jquery para o projeto
+- npm install bootstrap@3 jquery --save
+
+- ng serve
+
+Novo componente no projeto
+- ng g c meu-componente2017
+
+
+
